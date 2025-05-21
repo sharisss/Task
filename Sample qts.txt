@@ -1,0 +1,9 @@
+Question: What is the average quality of the wines?
+
+Question: Tell me about wines with low pH
+
+Question: Describe a high-quality wine
+
+Question: Describe the wine with high pH
+
+Question: What does pH affect in wine?
